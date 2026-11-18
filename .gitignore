@@ -1,0 +1,14 @@
+# macOS files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# q workspace files
+*.qws
+
+# KDB+ license files
+kc.lic
+k4.lic
